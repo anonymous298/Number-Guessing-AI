@@ -29,3 +29,6 @@ test.db
 to_do_app.log
 to_do_db.py
 to_do.py
+dice_rolling.py
+Rock_Paper_Scissor.py
+explorer_game.py
